@@ -1,0 +1,17 @@
+# PyCharm
+.idea/
+
+# __pycache__ folders
+__pycache__/
+**/__pycache__/
+
+# SQLite database
+db.sqlite3
+
+# Environment variables
+.env
+
+*.log
+
+# Media files
+media/
